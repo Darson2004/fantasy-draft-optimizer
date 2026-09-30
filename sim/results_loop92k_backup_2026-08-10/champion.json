@@ -1,0 +1,34 @@
+{
+ "genome": {
+  "flex_rb": 0.4504081027616242,
+  "flex_wr": 0.3931206706311191,
+  "flex_te": 0.24500282164066728,
+  "bench_beta": 1.0,
+  "base_depth": 1.6717074584979421,
+  "v2_weight": 0.014415695743042467,
+  "bias_QB": -3.9606872155609256,
+  "bias_RB": 10.752091875958126,
+  "bias_WR": 22.4307728288154,
+  "bias_TE": -21.312009012000722,
+  "reach_pen": 2.9859001977120796,
+  "kdst_early": 2.257600444257738
+ },
+ "selected_by": "all pre-holdout years vs autopick",
+ "selection_fitness": 8.611,
+ "guard_years": [
+  2019,
+  2020
+ ],
+ "train_years": [
+  2010,
+  2011,
+  2013,
+  2014,
+  2015,
+  2016,
+  2017,
+  2018
+ ],
+ "stopped_gen": 91988,
+ "seed": 1
+}

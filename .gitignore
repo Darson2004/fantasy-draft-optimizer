@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv*/
+*.egg-info/
+
+# Private / scraped league inputs (never commit a real league's data)
+board_2026*.json
+board_pre*.json
+weekly_proj_2026*.json
+fantasycalc_values.json
+league_state.json
+live_rosters.json
+pick_owners.json
+schedule.json
+drafted.txt
+injury_overrides.json
+waivers_now.json
+!examples/**/board_2026.json
+!examples/**/weekly_proj_2026.json
+!examples/**/fantasycalc_values.json
+!examples/**/league_state.json
+
+# Run outputs and caches
+trade_stage2_checkpoint.json
+trade_search_*.json
+trade_runs/
+data/sleeper_cache/
+sim/data/
+sim/**/population.json
+*.log
+.env
+league_config.json
+!examples/**/league_config.json

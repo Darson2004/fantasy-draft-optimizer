@@ -1,0 +1,3 @@
+numpy>=1.24
+matplotlib>=3.7      # figures only (scripts/make_figures.py)
+# optional: xgboost>=1.7 enables the gradient-boosting check (M3) in src/recal_study.py
