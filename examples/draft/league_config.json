@@ -1,0 +1,15 @@
+{
+ "_note": "ILLUSTRATIVE, made-up league config (not a real league). Team keys t1..t9 are placeholders; 'me' is the drafting team. keeper_picks = overall pick numbers that each keeper costs its team (here: t1 and me lose their round-2 picks, t4 its round-3 pick, t7 its round-2 pick).",
+ "teams": 10,
+ "rounds": 16,
+ "scoring": "ppr",
+ "my_slot": 4,
+ "draft_order": ["t1", "t2", "t3", "me", "t4", "t5", "t6", "t7", "t8", "t9"],
+ "keepers": {
+  "t1": ["Saquon Barkley"],
+  "me": ["Brock Bowers"],
+  "t4": ["Josh Allen"],
+  "t7": ["Christian McCaffrey"]
+ },
+ "keeper_picks": [20, 17, 25, 13]
+}

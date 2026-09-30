@@ -1,0 +1,23 @@
+holdout years: [2021, 2022, 2023, 2024, 2025]
+
+=== evolved champion  (5 holdout years x 300 leagues) ===
+  year   title%  playoff%  avg wins   avg pts
+  2021    36.3%     48.7%      7.02    1418.1
+  2022    37.7%     86.3%      8.48    1399.0
+  2023     0.0%     21.7%      5.99    1268.2
+  2024    11.0%     42.7%      6.96    1339.8
+  2025    18.7%     33.3%      5.93    1250.8
+   ALL    20.7%     46.5%      6.88
+luck baseline: title 10.0% (SE 0.8%), playoff 40.0%, wins 6.5
+title edge: +10.7 pts (+13.9 SE)
+
+=== hand-tuned default (draftmodel.py weights)  (5 holdout years x 300 leagues) ===
+  year   title%  playoff%  avg wins   avg pts
+  2021    21.3%     48.7%      6.75    1397.9
+  2022    24.7%     64.7%      7.47    1328.1
+  2023     5.0%     17.0%      5.53    1249.4
+  2024     5.7%     42.0%      6.78    1355.8
+  2025     4.7%     28.0%      5.89    1254.9
+   ALL    12.3%     40.1%      6.48
+luck baseline: title 10.0% (SE 0.8%), playoff 40.0%, wins 6.5
+title edge: +2.3 pts (+2.9 SE)

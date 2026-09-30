@@ -1,0 +1,897 @@
+{
+"Jahmyr Gibbs": {
+"value": 10749,
+"rank": 1,
+"pos": "RB"
+},
+"Bijan Robinson": {
+"value": 10052,
+"rank": 2,
+"pos": "RB"
+},
+"Jaxon Smith-Njigba": {
+"value": 9704,
+"rank": 3,
+"pos": "WR"
+},
+"Ja'Marr Chase": {
+"value": 9200,
+"rank": 4,
+"pos": "WR"
+},
+"Jonathan Taylor": {
+"value": 8705,
+"rank": 6,
+"pos": "RB"
+},
+"Amon-Ra St. Brown": {
+"value": 8384,
+"rank": 7,
+"pos": "WR"
+},
+"Christian McCaffrey": {
+"value": 8283,
+"rank": 8,
+"pos": "RB"
+},
+"CeeDee Lamb": {
+"value": 7628,
+"rank": 9,
+"pos": "WR"
+},
+"Derrick Henry": {
+"value": 7578,
+"rank": 10,
+"pos": "RB"
+},
+"Puka Nacua": {
+"value": 7296,
+"rank": 11,
+"pos": "WR"
+},
+"Justin Jefferson": {
+"value": 6993,
+"rank": 13,
+"pos": "WR"
+},
+"Josh Allen": {
+"value": 6873,
+"rank": 14,
+"pos": "QB"
+},
+"Ashton Jeanty": {
+"value": 6611,
+"rank": 15,
+"pos": "RB"
+},
+"Trey McBride": {
+"value": 6128,
+"rank": 16,
+"pos": "TE"
+},
+"Chris Olave": {
+"value": 6044,
+"rank": 17,
+"pos": "WR"
+},
+"Chase Brown": {
+"value": 5630,
+"rank": 18,
+"pos": "RB"
+},
+"Saquon Barkley": {
+"value": 5262,
+"rank": 19,
+"pos": "RB"
+},
+"Omarion Hampton": {
+"value": 5098,
+"rank": 20,
+"pos": "RB"
+},
+"Drake London": {
+"value": 4964,
+"rank": 21,
+"pos": "WR"
+},
+"Brock Bowers": {
+"value": 4752,
+"rank": 22,
+"pos": "TE"
+},
+"Kyren Williams": {
+"value": 4732,
+"rank": 23,
+"pos": "RB"
+},
+"Nico Collins": {
+"value": 4696,
+"rank": 24,
+"pos": "WR"
+},
+"Javonte Williams": {
+"value": 4628,
+"rank": 25,
+"pos": "RB"
+},
+"Breece Hall": {
+"value": 4574,
+"rank": 26,
+"pos": "RB"
+},
+"DeVonta Smith": {
+"value": 4472,
+"rank": 27,
+"pos": "WR"
+},
+"Zay Flowers": {
+"value": 4422,
+"rank": 28,
+"pos": "WR"
+},
+"Jeremiyah Love": {
+"value": 4227,
+"rank": 29,
+"pos": "RB"
+},
+"George Pickens": {
+"value": 4143,
+"rank": 30,
+"pos": "WR"
+},
+"Garrett Wilson": {
+"value": 4069,
+"rank": 31,
+"pos": "WR"
+},
+"Bucky Irving": {
+"value": 4008,
+"rank": 32,
+"pos": "RB"
+},
+"Lamar Jackson": {
+"value": 3949,
+"rank": 33,
+"pos": "QB"
+},
+"D'Andre Swift": {
+"value": 3791,
+"rank": 34,
+"pos": "RB"
+},
+"Parker Washington": {
+"value": 3783,
+"rank": 35,
+"pos": "WR"
+},
+"Christian Watson": {
+"value": 3698,
+"rank": 36,
+"pos": "WR"
+},
+"Malik Nabers": {
+"value": 3645,
+"rank": 37,
+"pos": "WR"
+},
+"Chuba Hubbard": {
+"value": 3368,
+"rank": 38,
+"pos": "RB"
+},
+"Tee Higgins": {
+"value": 3271,
+"rank": 39,
+"pos": "WR"
+},
+"Davante Adams": {
+"value": 3170,
+"rank": 40,
+"pos": "WR"
+},
+"Tetairoa McMillan": {
+"value": 3109,
+"rank": 41,
+"pos": "WR"
+},
+"David Montgomery": {
+"value": 3038,
+"rank": 42,
+"pos": "RB"
+},
+"Cam Skattebo": {
+"value": 3020,
+"rank": 43,
+"pos": "RB"
+},
+"Jaylen Waddle": {
+"value": 2933,
+"rank": 44,
+"pos": "WR"
+},
+"Ladd McConkey": {
+"value": 2866,
+"rank": 45,
+"pos": "WR"
+},
+"Rashee Rice": {
+"value": 2779,
+"rank": 46,
+"pos": "WR"
+},
+"TreVeyon Henderson": {
+"value": 2687,
+"rank": 47,
+"pos": "RB"
+},
+"Bhayshul Tuten": {
+"value": 2664,
+"rank": 48,
+"pos": "RB"
+},
+"Patrick Mahomes": {
+"value": 2631,
+"rank": 49,
+"pos": "QB"
+},
+"A.J. Brown": {
+"value": 2582,
+"rank": 50,
+"pos": "WR"
+},
+"Dalton Kincaid": {
+"value": 2517,
+"rank": 51,
+"pos": "TE"
+},
+"DJ Moore": {
+"value": 2403,
+"rank": 52,
+"pos": "WR"
+},
+"Emeka Egbuka": {
+"value": 2388,
+"rank": 53,
+"pos": "WR"
+},
+"Tyler Warren": {
+"value": 2317,
+"rank": 54,
+"pos": "TE"
+},
+"Jaylen Warren": {
+"value": 2131,
+"rank": 56,
+"pos": "RB"
+},
+"Jalen Hurts": {
+"value": 2103,
+"rank": 57,
+"pos": "QB"
+},
+"Joe Burrow": {
+"value": 2037,
+"rank": 58,
+"pos": "QB"
+},
+"Brock Purdy": {
+"value": 2020,
+"rank": 59,
+"pos": "QB"
+},
+"Mike Evans": {
+"value": 2006,
+"rank": 60,
+"pos": "WR"
+},
+"Quinshon Judkins": {
+"value": 2002,
+"rank": 61,
+"pos": "RB"
+},
+"George Kittle": {
+"value": 1907,
+"rank": 62,
+"pos": "TE"
+},
+"Jalen Coker": {
+"value": 1796,
+"rank": 63,
+"pos": "WR"
+},
+"Travis Kelce": {
+"value": 1763,
+"rank": 64,
+"pos": "TE"
+},
+"Sam LaPorta": {
+"value": 1740,
+"rank": 65,
+"pos": "TE"
+},
+"Josh Jacobs": {
+"value": 1719,
+"rank": 66,
+"pos": "RB"
+},
+"Dak Prescott": {
+"value": 1699,
+"rank": 67,
+"pos": "QB"
+},
+"Matthew Golden": {
+"value": 1612,
+"rank": 68,
+"pos": "WR"
+},
+"Jadarian Price": {
+"value": 1599,
+"rank": 69,
+"pos": "RB"
+},
+"Caleb Williams": {
+"value": 1455,
+"rank": 70,
+"pos": "QB"
+},
+"Trevor Lawrence": {
+"value": 1438,
+"rank": 71,
+"pos": "QB"
+},
+"Jameson Williams": {
+"value": 1434,
+"rank": 72,
+"pos": "WR"
+},
+"Drake Maye": {
+"value": 1427,
+"rank": 73,
+"pos": "QB"
+},
+"Jared Goff": {
+"value": 1406,
+"rank": 74,
+"pos": "QB"
+},
+"Tyler Shough": {
+"value": 1404,
+"rank": 75,
+"pos": "QB"
+},
+"Stefon Diggs": {
+"value": 1320,
+"rank": 76,
+"pos": "WR"
+},
+"Tucker Kraft": {
+"value": 1304,
+"rank": 78,
+"pos": "TE"
+},
+"Colston Loveland": {
+"value": 1301,
+"rank": 79,
+"pos": "TE"
+},
+"Terry McLaurin": {
+"value": 1286,
+"rank": 80,
+"pos": "WR"
+},
+"Josh Downs": {
+"value": 1277,
+"rank": 81,
+"pos": "WR"
+},
+"Rhamondre Stevenson": {
+"value": 1197,
+"rank": 82,
+"pos": "RB"
+},
+"Bryce Young": {
+"value": 1173,
+"rank": 83,
+"pos": "QB"
+},
+"Matthew Stafford": {
+"value": 1086,
+"rank": 85,
+"pos": "QB"
+},
+"Michael Wilson": {
+"value": 1073,
+"rank": 86,
+"pos": "WR"
+},
+"Blake Corum": {
+"value": 1069,
+"rank": 87,
+"pos": "RB"
+},
+"Justin Herbert": {
+"value": 1063,
+"rank": 88,
+"pos": "QB"
+},
+"DK Metcalf": {
+"value": 1051,
+"rank": 89,
+"pos": "WR"
+},
+"Denzel Boston": {
+"value": 1006,
+"rank": 90,
+"pos": "WR"
+},
+"Tony Pollard": {
+"value": 956,
+"rank": 92,
+"pos": "RB"
+},
+"Carnell Tate": {
+"value": 929,
+"rank": 93,
+"pos": "WR"
+},
+"RJ Harvey": {
+"value": 923,
+"rank": 94,
+"pos": "RB"
+},
+"Isaiah Likely": {
+"value": 906,
+"rank": 95,
+"pos": "TE"
+},
+"Mark Andrews": {
+"value": 901,
+"rank": 96,
+"pos": "TE"
+},
+"Rome Odunze": {
+"value": 856,
+"rank": 97,
+"pos": "WR"
+},
+"Bo Nix": {
+"value": 788,
+"rank": 99,
+"pos": "QB"
+},
+"Rico Dowdle": {
+"value": 781,
+"rank": 100,
+"pos": "RB"
+},
+"Kyle Monangai": {
+"value": 780,
+"rank": 101,
+"pos": "RB"
+},
+"Jacory Croskey-Merritt": {
+"value": 747,
+"rank": 103,
+"pos": "RB"
+},
+"Rachaad White": {
+"value": 736,
+"rank": 104,
+"pos": "RB"
+},
+"Dalton Schultz": {
+"value": 733,
+"rank": 105,
+"pos": "TE"
+},
+"J.K. Dobbins": {
+"value": 720,
+"rank": 106,
+"pos": "RB"
+},
+"Xavier Worthy": {
+"value": 650,
+"rank": 109,
+"pos": "WR"
+},
+"Jake Ferguson": {
+"value": 641,
+"rank": 110,
+"pos": "TE"
+},
+"Juwan Johnson": {
+"value": 631,
+"rank": 111,
+"pos": "TE"
+},
+"Devaughn Vele": {
+"value": 594,
+"rank": 112,
+"pos": "WR"
+},
+"Baker Mayfield": {
+"value": 588,
+"rank": 113,
+"pos": "QB"
+},
+"Jordan Addison": {
+"value": 582,
+"rank": 114,
+"pos": "WR"
+},
+"Sam Darnold": {
+"value": 552,
+"rank": 115,
+"pos": "QB"
+},
+"Courtland Sutton": {
+"value": 548,
+"rank": 116,
+"pos": "WR"
+},
+"Jordyn Tyson": {
+"value": 534,
+"rank": 117,
+"pos": "WR"
+},
+"Dontayvion Wicks": {
+"value": 534,
+"rank": 118,
+"pos": "WR"
+},
+"KC Concepcion": {
+"value": 507,
+"rank": 120,
+"pos": "WR"
+},
+"Woody Marks": {
+"value": 497,
+"rank": 122,
+"pos": "RB"
+},
+"Kyler Murray": {
+"value": 484,
+"rank": 123,
+"pos": "QB"
+},
+"Alvin Kamara": {
+"value": 482,
+"rank": 124,
+"pos": "RB"
+},
+"Romeo Doubs": {
+"value": 472,
+"rank": 125,
+"pos": "WR"
+},
+"Jordan Love": {
+"value": 464,
+"rank": 126,
+"pos": "QB"
+},
+"Rashod Bateman": {
+"value": 452,
+"rank": 127,
+"pos": "WR"
+},
+"Tre Tucker": {
+"value": 447,
+"rank": 128,
+"pos": "WR"
+},
+"Jayden Daniels": {
+"value": 447,
+"rank": 129,
+"pos": "QB"
+},
+"Kaelon Black": {
+"value": 428,
+"rank": 130,
+"pos": "RB"
+},
+"Quentin Johnston": {
+"value": 418,
+"rank": 131,
+"pos": "WR"
+},
+"MarShawn Lloyd": {
+"value": 406,
+"rank": 132,
+"pos": "RB"
+},
+"Khalil Shakir": {
+"value": 406,
+"rank": 133,
+"pos": "WR"
+},
+"Adonai Mitchell": {
+"value": 393,
+"rank": 134,
+"pos": "WR"
+},
+"Terrance Ferguson": {
+"value": 392,
+"rank": 135,
+"pos": "TE"
+},
+"Jonah Coleman": {
+"value": 381,
+"rank": 136,
+"pos": "RB"
+},
+"Zach Charbonnet": {
+"value": 379,
+"rank": 137,
+"pos": "RB"
+},
+"Emmett Johnson": {
+"value": 377,
+"rank": 138,
+"pos": "RB"
+},
+"Dallas Goedert": {
+"value": 368,
+"rank": 139,
+"pos": "TE"
+},
+"Oronde Gadsden": {
+"value": 347,
+"rank": 140,
+"pos": "TE"
+},
+"Jordan Mason": {
+"value": 340,
+"rank": 141,
+"pos": "RB"
+},
+"C.J. Stroud": {
+"value": 318,
+"rank": 142,
+"pos": "QB"
+},
+"Kenny Gainwell": {
+"value": 295,
+"rank": 143,
+"pos": "RB"
+},
+"Jakobi Meyers": {
+"value": 288,
+"rank": 144,
+"pos": "WR"
+},
+"Kenyon Sadiq": {
+"value": 280,
+"rank": 145,
+"pos": "TE"
+},
+"Alec Pierce": {
+"value": 265,
+"rank": 146,
+"pos": "WR"
+},
+"Tyler Allgeier": {
+"value": 258,
+"rank": 147,
+"pos": "RB"
+},
+"Kirk Cousins": {
+"value": 257,
+"rank": 148,
+"pos": "QB"
+},
+"Wan'Dale Robinson": {
+"value": 257,
+"rank": 149,
+"pos": "WR"
+},
+"Makai Lemon": {
+"value": 247,
+"rank": 150,
+"pos": "WR"
+},
+"Tank Bigsby": {
+"value": 232,
+"rank": 151,
+"pos": "RB"
+},
+"Darren Waller": {
+"value": 221,
+"rank": 152,
+"pos": "TE"
+},
+"T.J. Hockenson": {
+"value": 216,
+"rank": 153,
+"pos": "TE"
+},
+"Malik Washington": {
+"value": 214,
+"rank": 154,
+"pos": "WR"
+},
+"Hunter Henry": {
+"value": 214,
+"rank": 155,
+"pos": "TE"
+},
+"Emanuel Wilson": {
+"value": 201,
+"rank": 156,
+"pos": "RB"
+},
+"Malik Willis": {
+"value": 165,
+"rank": 157,
+"pos": "QB"
+},
+"Braelon Allen": {
+"value": 147,
+"rank": 158,
+"pos": "RB"
+},
+"Rashid Shaheed": {
+"value": 129,
+"rank": 159,
+"pos": "WR"
+},
+"Tyjae Spears": {
+"value": 128,
+"rank": 160,
+"pos": "RB"
+},
+"Brenton Strange": {
+"value": 119,
+"rank": 161,
+"pos": "TE"
+},
+"Caleb Douglas": {
+"value": 118,
+"rank": 162,
+"pos": "WR"
+},
+"Daniel Jones": {
+"value": 118,
+"rank": 163,
+"pos": "QB"
+},
+"Keon Coleman": {
+"value": 115,
+"rank": 166,
+"pos": "WR"
+},
+"Cam Ward": {
+"value": 110,
+"rank": 168,
+"pos": "QB"
+},
+"Geno Smith": {
+"value": 108,
+"rank": 169,
+"pos": "QB"
+},
+"Jameis Winston": {
+"value": 106,
+"rank": 170,
+"pos": "QB"
+},
+"Deshaun Watson": {
+"value": 100,
+"rank": 172,
+"pos": "QB"
+},
+"Pat Freiermuth": {
+"value": 89,
+"rank": 173,
+"pos": "TE"
+},
+"Marcus Mariota": {
+"value": 88,
+"rank": 174,
+"pos": "QB"
+},
+"Kayshon Boutte": {
+"value": 84,
+"rank": 175,
+"pos": "WR"
+},
+"Keaton Mitchell": {
+"value": 82,
+"rank": 176,
+"pos": "RB"
+},
+"Jonathon Brooks": {
+"value": 77,
+"rank": 177,
+"pos": "RB"
+},
+"Aaron Rodgers": {
+"value": 75,
+"rank": 178,
+"pos": "QB"
+},
+"Keenan Allen": {
+"value": 67,
+"rank": 179,
+"pos": "WR"
+},
+"Jacoby Brissett": {
+"value": 67,
+"rank": 180,
+"pos": "QB"
+},
+"Jayden Reed": {
+"value": 65,
+"rank": 181,
+"pos": "WR"
+},
+"Malachi Fields": {
+"value": 40,
+"rank": 182,
+"pos": "WR"
+},
+"Pat Bryant": {
+"value": 33,
+"rank": 183,
+"pos": "WR"
+},
+"AJ Barner": {
+"value": 29,
+"rank": 184,
+"pos": "TE"
+},
+"Tyreek Hill": {
+"value": 26,
+"rank": 185,
+"pos": "WR"
+},
+"Jalen Nailor": {
+"value": 23,
+"rank": 186,
+"pos": "WR"
+},
+"Devin Singletary": {
+"value": 19,
+"rank": 187,
+"pos": "RB"
+},
+"Kalif Raymond": {
+"value": 16,
+"rank": 188,
+"pos": "WR"
+},
+"Cooper Kupp": {
+"value": 16,
+"rank": 189,
+"pos": "WR"
+},
+"Xavier Hutchinson": {
+"value": 15,
+"rank": 190,
+"pos": "WR"
+},
+"Antonio Williams": {
+"value": 12,
+"rank": 191,
+"pos": "WR"
+},
+"Chris Bell": {
+"value": 11,
+"rank": 192,
+"pos": "WR"
+},
+"Mack Hollins": {
+"value": 6,
+"rank": 194,
+"pos": "WR"
+},
+"Tank Dell": {
+"value": 5,
+"rank": 195,
+"pos": "WR"
+},
+"Justice Hill": {
+"value": 2,
+"rank": 196,
+"pos": "RB"
+}
+}

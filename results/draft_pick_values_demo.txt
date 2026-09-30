@@ -1,0 +1,161 @@
+me on ESPN autopick :  6.75 expected wins,  1555.6 season pts
+me on this model    :  7.53 expected wins,  1613.6 season pts
+model edge          : +0.78 wins
+
+=== projected draft (model drafting for me, everyone else autopick) ===
+  #  1 R 1 t1   Jahmyr Gibbs             RB    proj  348.4
+  #  2 R 1 t2   Bijan Robinson           RB    proj  338.9
+  #  3 R 1 t3   Puka Nacua               WR    proj  334.5
+  #  4 R 1 me   Ja'Marr Chase            WR    proj  323.7  <== ME
+  #  5 R 1 t4   Jaxon Smith-Njigba       WR    proj  305.6
+  #  6 R 1 t5   Jonathan Taylor          RB    proj  294.6
+  #  7 R 1 t6   Amon-Ra St. Brown        WR    proj  302.5
+  #  8 R 1 t7   CeeDee Lamb              WR    proj  282.4
+  #  9 R 1 t8   De'Von Achane            RB    proj  269.1
+  # 10 R 1 t9   Justin Jefferson         WR    proj  272.1
+  # 11 R 2 t9   James Cook III           RB    proj  279.3
+  # 12 R 2 t8   Jeremiyah Love           RB    proj  258.6
+  # 14 R 2 t6   Drake London             WR    proj  259.9
+  # 15 R 2 t5   Ashton Jeanty            RB    proj  270.4
+  # 16 R 2 t4   Rashee Rice              WR    proj  249.8
+  # 18 R 2 t3   Trey McBride             TE    proj  238.5
+  # 19 R 2 t2   Omarion Hampton          RB    proj  261.1
+  # 21 R 3 t1   Derrick Henry            RB    proj  260.6
+  # 22 R 3 t2   Chase Brown              RB    proj  263.9
+  # 23 R 3 t3   Kenneth Walker III       RB    proj  272.6
+  # 24 R 3 me   Josh Jacobs              RB    proj  238.1  <== ME
+  # 26 R 3 t5   Nico Collins             WR    proj  250.2
+  # 27 R 3 t6   Garrett Wilson           WR    proj  236.4
+  # 28 R 3 t7   A.J. Brown               WR    proj  247.8
+  # 29 R 3 t8   Chris Olave              WR    proj  238.4
+  # 30 R 3 t9   George Pickens           WR    proj  242.4
+  # 31 R 4 t9   Breece Hall              RB    proj  243.8
+  # 32 R 4 t8   Javonte Williams         RB    proj  233.0
+  # 33 R 4 t7   Malik Nabers             WR    proj  229.5
+  # 34 R 4 t6   Kyren Williams           RB    proj  220.0
+  # 35 R 4 t5   Tetairoa McMillan        WR    proj  231.7
+  # 36 R 4 t4   Zay Flowers              WR    proj  233.6
+  # 37 R 4 me   Travis Etienne Jr.       RB    proj  242.0  <== ME
+  # 38 R 4 t3   DeVonta Smith            WR    proj  234.0
+  # 39 R 4 t2   Emeka Egbuka             WR    proj  226.7
+  # 40 R 4 t1   Davante Adams            WR    proj  212.6
+  # 41 R 5 t1   Ladd McConkey            WR    proj  224.0
+  # 42 R 5 t2   Terry McLaurin           WR    proj  216.9
+  # 43 R 5 t3   Cam Skattebo             RB    proj  225.9
+  # 44 R 5 me   Lamar Jackson            QB    proj  324.1  <== ME
+  # 45 R 5 t4   Quinshon Judkins         RB    proj  210.6
+  # 46 R 5 t5   Bucky Irving             RB    proj  202.4
+  # 47 R 5 t6   Colston Loveland         TE    proj  210.7
+  # 48 R 5 t7   Tyler Warren             TE    proj  204.8
+  # 49 R 5 t8   Tee Higgins              WR    proj  221.4
+  # 50 R 5 t9   Jaylen Waddle            WR    proj  216.9
+  # 51 R 6 t9   Jayden Daniels           QB    proj  316.4
+  # 52 R 6 t8   Drake Maye               QB    proj  319.7
+  # 53 R 6 t7   Jalen Hurts              QB    proj  315.5
+  # 54 R 6 t6   TreVeyon Henderson       RB    proj  193.8
+  # 55 R 6 t5   Kyle Pitts Sr.           TE    proj  185.0
+  # 56 R 6 t4   Bhayshul Tuten           RB    proj  189.6
+  # 57 R 6 me   Rome Odunze              WR    proj  210.4  <== ME
+  # 58 R 6 t3   Jameson Williams         WR    proj  207.4
+  # 59 R 6 t2   Harold Fannin Jr.        TE    proj  187.1
+  # 60 R 6 t1   Sam LaPorta              TE    proj  192.7
+  # 61 R 7 t1   Joe Burrow               QB    proj  305.2
+  # 62 R 7 t2   Jaxson Dart              QB    proj  298.9
+  # 63 R 7 t3   Trevor Lawrence          QB    proj  295.3
+  # 64 R 7 me   D'Andre Swift            RB    proj  208.8  <== ME
+  # 65 R 7 t4   George Kittle            TE    proj  173.2
+  # 66 R 7 t5   Dak Prescott             QB    proj  295.2
+  # 67 R 7 t6   Bo Nix                   QB    proj  295.4
+  # 68 R 7 t7   David Montgomery         RB    proj  197.1
+  # 69 R 7 t8   Tucker Kraft             TE    proj  173.0
+  # 70 R 7 t9   Dallas Goedert           TE    proj  156.3
+  # 71 R 8 t9   Carnell Tate             WR    proj  200.7
+  # 72 R 8 t8   Luther Burden III        WR    proj  206.0
+  # 73 R 8 t7   DJ Moore                 WR    proj  194.4
+  # 74 R 8 t6   Jadarian Price           RB    proj  182.0
+  # 75 R 8 t5   Tony Pollard             RB    proj  174.8
+  # 76 R 8 t4   Courtland Sutton         WR    proj  189.2
+  # 77 R 8 me   Mike Evans               WR    proj  202.5  <== ME
+  # 78 R 8 t3   Michael Pittman Jr.      WR    proj  196.6
+  # 79 R 8 t2   Alec Pierce              WR    proj  190.6
+  # 80 R 8 t1   Marvin Harrison Jr.      WR    proj  194.0
+  # 81 R 9 t1   DK Metcalf               WR    proj  189.2
+  # 82 R 9 t2   Jordyn Tyson             WR    proj  183.6
+  # 83 R 9 t3   Parker Washington        WR    proj  198.2
+  # 84 R 9 me   Christian Watson         WR    proj  196.7  <== ME
+  # 85 R 9 t4   Matthew Golden           WR    proj  177.4
+  # 86 R 9 t5   Michael Wilson           WR    proj  171.3
+  # 87 R 9 t6   Brian Thomas Jr.         WR    proj  176.4
+  # 88 R 9 t7   Brock Purdy              QB    proj  297.8
+  # 89 R 9 t8   Matthew Stafford         QB    proj  286.6
+  # 90 R 9 t9   Caleb Williams           QB    proj  290.6
+  # 91 R10 t9   Jakobi Meyers            WR    proj  175.5
+  # 92 R10 t8   Wan'Dale Robinson        WR    proj  169.1
+  # 93 R10 t7   Travis Hunter            WR    proj  106.2
+  # 94 R10 t6   Makai Lemon              WR    proj  170.7
+  # 95 R10 t5   Josh Downs               WR    proj  176.7
+  # 96 R10 t4   Jordan Addison           WR    proj  171.1
+  # 97 R10 me   Aaron Jones Sr.          RB    proj  188.7  <== ME
+  # 98 R10 t3   Justin Herbert           QB    proj  289.0
+  # 99 R10 t2   Patrick Mahomes          QB    proj  288.1
+  #100 R10 t1   Jaylen Warren            RB    proj  180.8
+  #101 R11 t1   Rhamondre Stevenson      RB    proj  178.6
+  #102 R11 t2   Rico Dowdle              RB    proj  173.2
+  #103 R11 t3   Kenny Gainwell           RB    proj  165.2
+  #104 R11 me   Chuba Hubbard            RB    proj  172.7  <== ME
+  #105 R11 t4   Travis Kelce             TE    proj  174.2
+  #106 R11 t5   Rachaad White            RB    proj  151.0
+  #107 R11 t6   Jonathon Brooks          RB    proj  141.3
+  #108 R11 t7   J.K. Dobbins             RB    proj  165.9
+  #109 R11 t8   RJ Harvey                RB    proj  155.4
+  #110 R11 t9   Jake Ferguson            TE    proj  163.4
+  #111 R12 t9   Khalil Shakir            WR    proj  168.3
+  #112 R12 t8   Mark Andrews             TE    proj  166.1
+  #113 R12 t7   T.J. Hockenson           TE    proj  156.6
+  #114 R12 t6   Jayden Reed              WR    proj  184.0
+  #115 R12 t5   Xavier Worthy            WR    proj  167.1
+  #116 R12 t4   Kyle Monangai            RB    proj  165.5
+  #117 R12 me   Deebo Samuel Sr.         WR    proj  171.3  <== ME
+  #118 R12 t3   Kenyon Sadiq             TE    proj  146.8
+  #119 R12 t2   Isaiah Likely            TE    proj  156.9
+  #120 R12 t1   Dalton Kincaid           TE    proj  159.6
+  #121 R13 t1   Jacory Croskey-Merritt   RB    proj  139.7
+  #122 R13 t2   Blake Corum              RB    proj  147.2
+  #123 R13 t3   Woody Marks              RB    proj  105.5
+  #124 R13 me   Jared Goff               QB    proj  275.7  <== ME
+  #125 R13 t4   Zach Charbonnet          RB    proj  100.6
+  #126 R13 t5   Hunter Henry             TE    proj  151.7
+  #127 R13 t6   Quentin Johnston         WR    proj  164.4
+  #128 R13 t7   KC Concepcion            WR    proj  159.2
+  #129 R13 t8   Chris Godwin Jr.         WR    proj  157.6
+  #130 R13 t9   Romeo Doubs              WR    proj  160.8
+  #131 R14 t9   Jordan Mason             RB    proj  141.8
+  #132 R14 t8   Jayden Higgins           WR    proj  153.4
+  #133 R14 t7   Jalen Coker              WR    proj  157.6
+  #134 R14 t6   Kyler Murray             QB    proj  258.0
+  #135 R14 t5   Jerry Jeudy              WR    proj  128.8
+  #136 R14 t4   Rashid Shaheed           WR    proj  138.7
+  #137 R14 me   Stefon Diggs             WR    proj  163.0  <== ME
+  #138 R14 t3   Alvin Kamara             RB    proj   95.0
+  #139 R14 t2   Isiah Pacheco            RB    proj   88.7
+  #140 R14 t1   Tyler Shough             QB    proj  268.1
+  #141 R15 t1   Broncos D/ST             D/ST  proj   96.0
+  #142 R15 t2   Texans D/ST              D/ST  proj  104.0
+  #143 R15 t3   Steelers D/ST            D/ST  proj   88.0
+  #144 R15 me   Rams D/ST                D/ST  proj  106.0  <== ME
+  #145 R15 t4   Seahawks D/ST            D/ST  proj  103.0
+  #146 R15 t5   Ravens D/ST              D/ST  proj   95.0
+  #147 R15 t6   Eagles D/ST              D/ST  proj   98.0
+  #148 R15 t7   Browns D/ST              D/ST  proj   74.0
+  #149 R15 t8   Patriots D/ST            D/ST  proj   92.0
+  #150 R15 t9   Lions D/ST               D/ST  proj   92.0
+  #151 R16 t9   Brandon Aubrey           K     proj  116.0
+  #152 R16 t8   Cameron Dicker           K     proj  106.0
+  #153 R16 t7   Jason Myers              K     proj  111.0
+  #154 R16 t6   Harrison Mevis           K     proj  106.0
+  #155 R16 t5   Ka'imi Fairbairn         K     proj  113.0
+  #156 R16 t4   Eddy Pineiro             K     proj  101.0
+  #157 R16 me   Cam Little               K     proj  112.0  <== ME
+  #158 R16 t3   Harrison Butker          K     proj  100.0
+  #159 R16 t2   Jake Bates               K     proj  105.0
+  #160 R16 t1   Tyler Loop               K     proj  106.0
